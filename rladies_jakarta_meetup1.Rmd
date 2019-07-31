@@ -1,0 +1,192 @@
+---
+title: "Welcome to R-Ladies Jakarta <br /> First Meetup"
+author: "by Erika Siregar"
+# author: "by Erika Siregar (<a href="https://twitter.com/erikaris">@erikaris</a>)"
+date: "July 28, 2019"
+output:
+  ioslides_presentation:
+    css: mystyle.css
+    keep_tex: yes
+    logo: sticker_rladies.png
+    smaller: yes
+    widescreen: yes
+  beamer_presentation: default
+---
+
+## <span style="color:#88398A">Hello</span> 
+* Erika Siregar
+* Co-organizer R-Ladies Jakarta (along with Ulfah Mardhiah)
+* Statistician at BPS-Statistics
+* Admin Twitter [```@RLadiesJakarta```](https://twitter.com/RLadiesJakarta)
+* Let's get connected: 
+  + Twitter : [```@erikaris```](https://twitter.com/erikaris)
+  + instagram: @erikaris15
+  + blog: [```erikaris.com```](http://erikaris.com/)
+  
+  ![](erika.jpg){width=15%}
+  
+## <span style="color:#88398A">Today's Agenda</span> 
+1. R-Ladies Global
+2. R-Ladies in Indonesia
+3. Get to know each other
+4. First meeting topic
+5. Socializing
+
+
+## <span style="color:#88398A">Precheck</span> 
+1. How many people have used R before?
+2. R and RStudio installed?
+3. Anyone feeling scared of R?
+
+
+## <span style="color:#88398A">Our Survey Result</span> 
+**1. What do you do?** <br />
+![](jobs.png){width=70%}
+
+## <span style="color:#88398A">Our Survey Result</span> 
+**2. What is your R level?** <br />
+![](rlevel.png){width=70%}
+
+## <span style="color:#88398A">Our Survey Result</span> 
+**3. What do you expect from this 1st meetup?**
+<br />
+![](expectation.png){width=70%}
+
+
+## <span style="color:#88398A">R-Ladies Global</span> 
+
+>- "R-Ladies is a worldwide organization whose mission is to promote Gender Diversity in the R community"
+>- Founded by Gabriela de Queiroz in San Francisco in October 2012!
+>- Website: [https://rladies.org/](https://rladies.org/)
+
+## <span style="color:#88398A">Why R-Ladies?</span> 
+
+* Women are underrepresented in every role:
+  * package developers
+  * conference speakers
+  * conference participants
+  * leadership positions
+
+* Need to encourage women to be more represented throughout the R Community
+
+## <span style="color:#88398A">R-Ladies Structure</span> 
+![](structure.png){width=70%}
+
+
+## <span style="color:#88398A">R-Ladies All Over The World</span> 
+
+* 46 countries • 163 groups • 46498 members
+* [List of R-Ladies Chapter](https://github.com/rladies/starter-kit/blob/master/Current-Chapters.csv)
+
+![](rladies_chapter.png){width=60%}
+
+## <span style="color:#88398A">R-Ladies in Indonesia</span> 
+
+* R-Ladies Bogor
+* Initiated by the wonderful ladies from [Wildlife Conservation Society (WCS)](https://indonesia.wcs.org/)
+  * Check their profiles on R-Ladies Directory ([https://rladies.org/directory/](https://rladies.org/directory/in))
+  * You can also add yourself to this directory by send an email to **speakers@rladies.org**. 
+* Monthly meetup (3 Meetups since May 5, 2019)
+* 173 members on Meetup. 
+* Github: [https://github.com/bogoRladies/](https://github.com/bogoRladies/)
+
+## <span style="color:#88398A">1st Meetup: May 5, 2019</span> 
+
+![](meet1_bogor.jpg){width=70%}
+
+## <span style="color:#88398A">2nd Meetup: June 16, 2019 - Absolute Beginner </span> 
+
+![](meet2_bogor.jpg){width=70%}
+
+
+## <span style="color:#88398A">3rd Meetup: July 14, 2019 - Data Summary and Visualization</span> 
+
+![](meet3_bogor.jpg){width=70%}
+
+## <span style="color:#88398A">There are people who are not happy</span> 
+
+* Duh, pengen dateng...tapi jauh harus ke Bogor….
+* Gak ada yang dijakarta aja ya?
+* Sorry...bogor kejauhan deh kayaknya. 
+
+
+## <span style="color:#88398A">R-Ladies Jakarta</span> 
+
+* 1st meetup: July 28, 2019 <br />
+* meetup.com: https://www.meetup.com/rladies-jakarta/ <br />
+* twitter: [@RLadiesJakarta](https://twitter.com/RLadiesJakarta) <br />
+* github: [https://github.com/RLadiesJakarta](https://github.com/RLadiesJakarta) <br />
+* The second one in Southeast Asia (after R-Ladies Bogor)  
+<br />
+![](kim.png){width=70%}
+
+## <span style="color:#88398A"> Why you are encouraged to join R-Ladies? </span> 
+1. Free
+2. Improve knowledge in R
+3. Help others
+4. Expand network
+
+
+## <span style="color:#88398A"> Rules </span> 
+
+1. Everyone must have a strong willingness to learn R. 
+2. Stay committed to learn R
+3. This group is specific about R
+4. Women and gender minority are prioritized.
+5. Non women or gender minority are welcome as a guest as long as there are seats available. 
+6. Get rid of inferior feeling --> no 'minder-minder', must be brave to ask, we are all learning here. 
+7. R-Ladies is a community-based event. So, every member is encouraged to contribute promoting R-Ladies in any way possible. 
+8. All members must obey the R-Ladies Global's [Code of Conduct](https://rladies.org/code-of-conduct/). 
+
+## <span style="color:#88398A"> Some of the Code of Conduct </span>
+* Offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, or religion.
+* Gratuitous or off-topic sexual images or behaviour in spaces where they’re not appropriate.
+* Threats of violence.
+* Deliberate intimidation.
+* Stalking or following.
+
+
+## <span style="color:#88398A"> Help Us Make R-Ladies Jakarta a Success </span> 
+
+* Plug into the community: rladies.org, @RLadiesJakarta
+* spread the news
+  * make an instagram post about this event
+  * Tweet about this event and mention **@RLadiesJakarta**, **@r_indonesia_**, **@RLadiesGlobal** with hashtags **#rladies** and **#rstats**. 
+* attend our monthly event, please bring some snacks if it's possible. 
+* Please suggest us **place** for future meetup and also **guest speakers** who we can contact to.
+* Share your R code on R-Ladies Jakarta Github: [https://github.com/rladiesjakarta](https://github.com/rladiesjakarta)
+* Volunteer yourself for the next meetings. 
+* Support, help, and inspire each other in learning R. 
+  ** This is not a teacher-student groups. **We are all learning here**
+
+
+## <span style="color:#88398A">Thank You</span> 
+
+**Questions?**
+<br /><br /><br /><br />
+
+**_P.S: This presentation is created with rmarkdown_**
+
+
+## <span style="color:#88398A">Let's Get to Know Each Other</span> 
+Please stand up and say:
+1. Your name
+2. Your current job
+3. Why do attend R-Ladies Jakarta today?
+4. What do you want to benefit from R-Ladies Jakarta?
+
+
+## <span style="color:#88398A">Enjoy the treats!</span> 
+
+![](http://www.reactiongifs.com/r/sBlIWMK.gif)
+
+
+## <span style="color:#88398A">Sharing Experience of Learning R</span> 
+* Guest Speaker: Ika Yuni
+* Lecturer at Institute of Statistics, Jakarta. 
+
+## <span style="color:#88398A"> Next Meeting </span> 
+* What?   -   do you want for the next meeting?
+* When?   
+* Where?
+* Who?    - wants to volunteer? should we invite as a guest speaker? 
